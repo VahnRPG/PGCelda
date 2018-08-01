@@ -11,7 +11,7 @@ use PGCelda\World\Rooms\BaseRoom;
 use PGCelda\World\Rooms\RoomBridge;
 
 class PGCelda {
-	const VERSION = "0.0.1a";
+	const VERSION = "0.0.1";
 	
 	protected $world = NULL;
 	
