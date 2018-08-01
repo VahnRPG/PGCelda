@@ -1,0 +1,17 @@
+{
+	"type": "biome",
+	"subtype": "",
+	"name": "plains",
+	"color": {
+		"red": 219,
+		"green": 184,
+		"blue": 101
+	},
+	"use_percents": [
+		"(if (<= rank 20) (mt_rand 1 100) nil)",
+		"(if (<= rank 40) (mt_rand 1 80) nil)",
+		"(if (<= rank 60) (mt_rand 1 40) nil)",
+		"(if (<= rank 80) (mt_rand 1 20) nil)",
+		"(if (<= rank 100) (mt_rand 1 10) nil)"
+	]
+}

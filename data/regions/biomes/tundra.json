@@ -1,0 +1,17 @@
+{
+	"type": "biome",
+	"subtype": "",
+	"name": "tundra",
+	"color": {
+		"red": 143,
+		"green": 170,
+		"blue": 169
+	},
+	"use_percents": [
+		"(if (<= rank 20) (mt_rand 1 10) nil)",
+		"(if (<= rank 40) (mt_rand 1 10) nil)",
+		"(if (<= rank 60) (mt_rand 1 40) nil)",
+		"(if (<= rank 80) (mt_rand 1 60) nil)",
+		"(if (<= rank 100) (mt_rand 1 80) nil)"
+	]
+}

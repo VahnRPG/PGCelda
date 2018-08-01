@@ -1,0 +1,17 @@
+{
+	"type": "biome",
+	"subtype": "",
+	"name": "jungle",
+	"color": {
+		"red": 5,
+		"green": 41,
+		"blue": 10
+	},
+	"use_percents": [
+		"(if (<= rank 20) (mt_rand 1 10) nil)",
+		"(if (<= rank 40) (mt_rand 1 10) nil)",
+		"(if (<= rank 60) (mt_rand 1 25) nil)",
+		"(if (<= rank 80) (mt_rand 1 60) nil)",
+		"(if (<= rank 100) (mt_rand 1 85) nil)"
+	]
+}

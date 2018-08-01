@@ -1,0 +1,17 @@
+{
+	"type": "biome",
+	"subtype": "",
+	"name": "rainforest",
+	"color": {
+		"red": 31,
+		"green": 115,
+		"blue": 43
+	},
+	"use_percents": [
+		"(if (<= rank 20) (mt_rand 1 150) nil)",
+		"(if (<= rank 40) (mt_rand 1 15) nil)",
+		"(if (<= rank 60) (mt_rand 1 30) nil)",
+		"(if (<= rank 80) (mt_rand 1 65) nil)",
+		"(if (<= rank 100) (mt_rand 1 40) nil)"
+	]
+}

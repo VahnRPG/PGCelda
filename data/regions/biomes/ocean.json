@@ -1,0 +1,17 @@
+{
+	"type": "biome",
+	"subtype": "",
+	"name": "ocean",
+	"color": {
+		"red": 0,
+		"green": 17,
+		"blue": 179
+	},
+	"use_percents": [
+		"(if (<= rank 20) (mt_rand 1 75) nil)",
+		"(if (<= rank 40) (mt_rand 1 55) nil)",
+		"(if (<= rank 60) (mt_rand 1 20) nil)",
+		"(if (<= rank 80) (mt_rand 1 15) nil)",
+		"(if (<= rank 100) (mt_rand 1 10) nil)"
+	]
+}

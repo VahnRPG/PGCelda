@@ -1,0 +1,12 @@
+{
+	"type": "puzzle",
+	"subtype": "",
+	"name": "generic",
+	"color": {
+		"red": 149,
+		"green": 149,
+		"blue": 0
+	},
+	"map_image": "puzzles/puzzle_generic.png",
+	"tree_image": "puzzles/tree_puzzle_generic.png"
+}

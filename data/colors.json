@@ -1,0 +1,66 @@
+{
+	"type": "color",
+	"subtype": "",
+	"colors": [
+		{
+			"name": "black",
+			"red": 0,
+			"green": 0,
+			"blue": 0
+		},
+		{
+			"name": "grey",
+			"red": 128,
+			"green": 128,
+			"blue": 128
+		},
+		{
+			"name": "white",
+			"red": 255,
+			"green": 255,
+			"blue": 255
+		},
+		{
+			"name": "red",
+			"red": 208,
+			"green": 0,
+			"blue": 0
+		},
+		{
+			"name": "green",
+			"red": 0,
+			"green": 208,
+			"blue": 0
+		},
+		{
+			"name": "blue",
+			"red": 0,
+			"green": 0,
+			"blue": 208
+		},
+		{
+			"name": "yellow",
+			"red": 208,
+			"green": 208,
+			"blue": 0
+		},
+		{
+			"name": "purple",
+			"red": 112,
+			"green": 0,
+			"blue": 112
+		},
+		{
+			"name": "teal",
+			"red": 0,
+			"green": 208,
+			"blue": 208
+		},
+		{
+			"name": "brown",
+			"red": 96,
+			"green": 64,
+			"blue": 32
+		}
+	]
+}

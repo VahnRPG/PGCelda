@@ -1,0 +1,26 @@
+{
+	"name": "pgcelda",
+	"description": "Testing some Procedurally Generated Content",
+	"keywords": ["pgc", "pcg"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Marc Ryan",
+			"email": "vahnrpg@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"blackscorp/astar": "^1.2"
+	},
+	"autoload": {
+		"classmap": [
+			"lib"
+		]
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.1-dev"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"type": "puzzle",
+	"subtype": "",
+	"name": "end game",
+	"color": {
+		"red": 149,
+		"green": 0,
+		"blue": 0
+	},
+	"map_image": "puzzles/puzzle_end.png",
+	"tree_image": "puzzles/tree_puzzle_end.png"
+}

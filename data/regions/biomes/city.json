@@ -1,0 +1,17 @@
+{
+	"type": "biome",
+	"subtype": "",
+	"name": "city",
+	"color": {
+		"red": 170,
+		"green": 168,
+		"blue": 165
+	},
+	"use_percents": [
+		"(if (<= rank 20) (mt_rand 1 60) nil)",
+		"(if (<= rank 40) (mt_rand 1 40) nil)",
+		"(if (<= rank 60) (mt_rand 1 30) nil)",
+		"(if (<= rank 80) (mt_rand 1 20) nil)",
+		"(if (<= rank 100) (mt_rand 1 10) nil)"
+	]
+}

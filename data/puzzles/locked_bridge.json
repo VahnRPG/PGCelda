@@ -1,0 +1,12 @@
+{
+	"type": "puzzle",
+	"subtype": "",
+	"name": "locked bridge",
+	"color": {
+		"red": 37,
+		"green": 60,
+		"blue": 96
+	},
+	"map_image": "puzzles/puzzle_locked.png",
+	"tree_image": "puzzles/tree_puzzle_locked.png"
+}

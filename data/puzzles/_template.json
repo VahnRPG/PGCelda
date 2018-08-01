@@ -1,0 +1,11 @@
+{
+	"type": "puzzle",
+	"subtype": "",
+	"name": "",
+	"color": {
+		"red": 0,
+		"green": 0,
+		"blue": 0
+	},
+	"map_image": "puzzles/puzzle_locked.png"
+}
